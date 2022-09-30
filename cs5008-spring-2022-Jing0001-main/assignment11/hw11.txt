@@ -1,0 +1,24 @@
+Name: 
+Email: 
+
+Homework for Module 11 
+
+Common coins in the United States are denominated as 5, 10, and 25 cents.
+Create a "dynamic" grid showing the combination of the fewest coins to create the values of change:
+5, 10, 15, 20, 25, 30, 35, 40, 45, 50 cents. 
+
+Assume you have enough coins of any denomination to make the combinations you need. 
+A sample table is included, but feel free to make your own in some other tool (like Excel or a text editor)
+and upload a .txt or .pdf of your solution to your github folder. 
+
+The 3 coins denominations should represent the rows of your table, and the 10 change values should represent
+the columns. Fill the table in row by row as we did with the guitar/stereo/laptop example – the first 3
+elements of the first row have been filled in below (using N for 5 cent coin, D for 10 cent coin, and
+Q for 25 cent coin). 
+
+Name | Value |   5  |  10  |  15  |  20  |  25  |  30  |  35  |  40  |  50  |
+-----+-------+------+------+------+------+------+------+------+------+------+
+  N  |   5   |  1N  |  2N  |  3N  |      |      |      |      |      |      |
+  D  |  10   |      |      |      |      |      |      |      |      |      |
+  Q  |  25   |      |      |      |      |      |      |      |      |      |
+  
